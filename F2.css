@@ -2,16 +2,20 @@ body {
     background-color: rgb(121,139,0);
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-#jobboldal {
-    margin-left: 1250px;
-}
 img {
+    width: 200px;
+    height: 100px;
+}
+#FIA {
+    height: 100px;
     margin-right: 0;
     margin-left: auto;
     display: block;
 }
 #szoveg {
-    
-    margin-right: 700px;
+    margin-right: 200px;
+}
+#autospec {
+    margin-right: 500px;
 }
 
