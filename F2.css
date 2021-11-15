@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(121,139,0);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#jobboldal {
+    margin-left: 1250px;
+}
+img {
+    margin-right: 0;
+    margin-left: auto;
+    display: block;
+}
+#szoveg {
+    
+    margin-right: 700px;
+}
+
