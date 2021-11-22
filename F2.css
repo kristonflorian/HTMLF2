@@ -39,3 +39,7 @@ img {
     height: 144px;
     width: 256px;
 }
+table, td{
+    border: 1px solid black;
+    text-align: center;
+}
